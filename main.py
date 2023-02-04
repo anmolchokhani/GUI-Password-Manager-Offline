@@ -68,7 +68,7 @@ email_label= Label(text="Email/Username:",bg=YELLOW, fg=BLUE, font=(FONT_NAME,20
 email_label.grid(column=0,row=2,pady=2)
 
 email_input= Entry(width=42,bg=PINK)
-email_input.insert(0, "anmol.chokhani123@gmail.com")
+email_input.insert(0, "anmolchokh@gmail.com")
 
 email_input.grid(column=1,row=2,columnspan=2)
 
